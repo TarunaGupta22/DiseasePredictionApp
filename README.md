@@ -23,6 +23,7 @@ Provides results in real time through an interactive, user-friendly Streamlit in
 
 
 🎯 Objective
+
 To build an accessible tool that supports early disease detection using historical medical data.
 
 To apply supervised machine learning techniques in real-world healthcare applications.
@@ -31,6 +32,7 @@ To showcase how AI-powered tools can enhance health monitoring and personalized 
 
 
 🌍 Why It Matters
+
 Chronic diseases like diabetes often go undiagnosed in their early stages due to lack of symptoms or limited access to healthcare. This system provides a first-level digital screening, especially useful for:
 Rural or underserved populations
 
