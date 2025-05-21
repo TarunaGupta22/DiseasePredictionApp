@@ -61,10 +61,3 @@ By giving users a quick and simple way to assess risk, the tool encourages proac
 
 ---
 
-## 🧪 How to Run the Project
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/disease-prediction-system.git
-cd disease-prediction-system
